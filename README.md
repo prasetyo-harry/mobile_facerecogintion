@@ -5,3 +5,4 @@ facerecog act as backend, it's on plain php,
 you can buld the backend /replace using Lumen or Springboot or others,
 extract and deploy fras under cordova,
 add platform android and ios,
+face-recognition using face-api.js
